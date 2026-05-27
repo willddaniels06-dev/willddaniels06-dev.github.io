@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day N — Your Title"
+date: 2026-06-01
+permalink: /day1.html
+tags: ["tag1", "tag2"]
+
+what_i_learned: |
+  What you learned today. You can write multiple paragraphs —
+  just keep them indented the same way.
+
+blockers: |
+  Anything that got in your way. Write "No blockers!" if it was smooth sailing.
+
+reflection: |
+  Your honest thoughts on the day.
+---
