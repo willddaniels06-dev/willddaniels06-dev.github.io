@@ -1,18 +1,17 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: William Daniels                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
 motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎓 Junior, Finance"
+  - "🔬 Interested in Business Statistics"
+  - "📍 Based in Bowie, MD"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/william-daniels-a4057b399/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
